@@ -1,1 +1,1 @@
-given a list of tasks and the dependency of the tasks, detects a way of excecuting progrmas in correct order as well as runs thses programs in parallely if possible.
+client connects to the server and tells its a program to run which server runs and sends back the response.
