@@ -4,6 +4,7 @@ Created on Mar 31, 2014
 @author: swapnesh
 '''
 #!/usr/bin/python
+import sys
 
 def permute(instr):
     
